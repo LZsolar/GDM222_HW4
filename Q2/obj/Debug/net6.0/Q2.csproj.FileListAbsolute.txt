@@ -1,0 +1,15 @@
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\ref\Q2.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\ref\Q2.dll
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\EAM\Desktop\เทอมแรกต้องรอด\gdm222_PTod\GDM222_HW4\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
