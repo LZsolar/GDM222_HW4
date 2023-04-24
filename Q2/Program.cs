@@ -31,11 +31,9 @@ class Program
             foreach(int v in g[i]){
                 if(color[i]==color[v]){
                     color[v]++;
+                    if(color[v]>mxColor){mxColor=color[v];}
                 }
             }
-        }
-        for(int i=0;i<n;i++){
-            if(color[i]>mxColor){mxColor=color[i];}
         }
 
         return mxColor+1;
